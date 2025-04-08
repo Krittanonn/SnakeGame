@@ -1,8 +1,3 @@
-แสดงรายละเอียดเสมอ
-
-คัดลอก
-# Creating the README file with the content provided
-readme_content = """
 # Snake Game - README
 
 A simple text-based Snake game in C.
@@ -28,4 +23,4 @@ A simple text-based Snake game in C.
 ---
 
 Enjoy the game, and watch out for that snake! 🐍
-"""
+
